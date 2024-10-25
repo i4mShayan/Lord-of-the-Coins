@@ -7,7 +7,7 @@ steps = ((0, 1), # Down
 
 def bfs(game_state):
     '''
-    - TODO: YOUR A* AGENT CODE MUST BE WRITTEN HERE
+    - TODO: YOUR BFS AGENT CODE MUST BE WRITTEN HERE
     - Returns: Final GameState of the solution
     '''
     return game_state # For Example Purposes
